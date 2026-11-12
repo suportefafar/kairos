@@ -1,0 +1,6 @@
+requests==2.32.4
+Pillow==7.2.0; python_version < '3.9'
+Pillow==10.4.0; python_version >= '3.9'
+pystray==0.19.5
+pywin32==306; sys_platform == 'win32'
+pyinstaller==5.13.2
